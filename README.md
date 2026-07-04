@@ -12,15 +12,6 @@ Java Backend Developer • React Native Developer • B.Tech IT Student
   <img src="https://komarev.com/ghpvc/?username=Kratoscodes24&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanskrr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Sanskarsinhachopan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -63,13 +54,31 @@ public class Sanskar {
     };
 
     String philosophy =
-        "Learn. Build. Improve. Repeat.";
+        "Code. Learn. Build. Improve. Repeat.";
 }
 ```
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sanskrr/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:Sanskarsinhachopan@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+</a>
+
+</p>
 
 ---
 
@@ -164,7 +173,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Postman • 
 
 ### 🎵 Music Player
 
-Cross-platform music player built using **React Native** with a modern mobile interface and audio playback functionality.
+Cross-platform music player built using **React Native** with audio playback functionality.
 
 </td>
 
@@ -172,7 +181,7 @@ Cross-platform music player built using **React Native** with a modern mobile in
 
 ### 💱 Currency Converter
 
-A responsive currency conversion application built with **React Native** and TypeScript.
+A responsive currency conversion application built with **React Native** and **TypeScript**.
 
 </td>
 </tr>
@@ -182,7 +191,7 @@ A responsive currency conversion application built with **React Native** and Typ
 
 ### 🎲 Dice Roller
 
-An interactive React Native application simulating dice rolls with a simple and responsive UI.
+An interactive **React Native** application simulating dice rolls.
 
 </td>
 
@@ -221,8 +230,11 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 # 📊 GitHub Analytics
 
 <p align="center">
+
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kratoscodes24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratoscodes24&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -230,7 +242,9 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 # 📈 Contribution Graph
 
 <p align="center">
+
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kratoscodes24&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
@@ -238,102 +252,10 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 # 🏆 GitHub Trophies
 
 <p align="center">
+
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kratoscodes24&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+
 </p>
-
----
-
-# 🧠 My Development Journey
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ☕ Foundation
-
-✅ Core Java
-✅ Maven
-✅ Gradle
-✅ JUnit
-✅ Git & GitHub
-🔄 Data Structures & Algorithms
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌱 Backend Engineering
-
-✅ JDBC
-✅ Servlets & JSP
-✅ REST APIs & Web Services
-✅ ORM Concepts
-✅ Hibernate
-✅ Spring Framework
-✅ Spring Boot REST APIs
-✅ Spring JDBC
-✅ Spring Data JPA
-✅ Spring Boot MVC
-✅ Spring Security
-✅ JWT
-✅ OAuth2
-✅ Log4j
-✅ Spring Boot + MongoDB
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁️ DevOps & Advanced Backend
-
-🔄 Docker
-📌 Cloud Deployment
-📌 Spring AI
-📌 Ollama + Spring AI
-📌 Microservices
-📌 Spring Boot + Kafka
-📌 Linux
-📌 Ansible
-📌 Jenkins
-📌 Terraform
-
-</td>
-</tr>
-</table>
-
----
-
-# 📚 Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐳 DevOps
-
-* Docker
-* Linux
-* CI/CD
-* Jenkins
-* Ansible
-* Terraform
-
-</td>
-
-<td width="50%">
-
-### ☁️ Advanced Backend
-
-* Cloud Deployment
-* Microservices Architecture
-* Apache Kafka
-* Spring AI
-* Ollama Integration
-* System Design
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -369,51 +291,9 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 
 ---
 
-# 💭 Developer Thoughts
+## 💭 Developer Philosophy
 
-> **"I don't want to just learn technologies. I want to understand how things work, build things that solve real problems, and keep improving with every project."**
-
-> **"Code. Learn. Build. Break. Debug. Improve. Repeat."**
-
-> **"The goal is not to know every technology. The goal is to become good enough at learning that no technology feels impossible."**
-
----
-
-# ⚡ Developer Mindset
-
-```text
-Learn the fundamentals.
-        ↓
-Build something real.
-        ↓
-Break things.
-        ↓
-Debug patiently.
-        ↓
-Understand what went wrong.
-        ↓
-Build it better.
-        ↓
-Repeat.
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sanskrr/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-  
-
-<a href="mailto:Sanskarsinhachopan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Sanskarsinhachopan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+> **"Code. Learn. Build. Improve. Repeat."**
 
 ---
 
