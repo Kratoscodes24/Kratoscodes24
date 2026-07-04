@@ -68,15 +68,15 @@ public class Sanskar {
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sanskrr/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>
+  <a href="https://www.linkedin.com/in/sanskrr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"/>
+  </a>
 
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
-<a href="mailto:Sanskarsinhachopan@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Sanskarsinhachopan@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" width="45" alt="Email"/>
+  </a>
 
 </p>
 
