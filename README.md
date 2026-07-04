@@ -1,98 +1,228 @@
 <h1 align="center">Hi 👋, I'm Sanskar Sinha</h1>
 
 <h3 align="center">
-Java Backend Developer | React Native Developer | B.Tech IT Student
+Java Backend Developer • React Native Developer • B.Tech IT Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;React+Native+Developer;DSA+Enthusiast;Always+Building+Something+New!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Native+Developer;DSA+Enthusiast;Exploring+DevOps+%26+Cloud;Learning.+Building.+Improving." />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kratoscodes24&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kratoscodes24&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskrr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Sanskarsinhachopan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
 
 🎓 B.Tech Information Technology Student
 
-💻 Passionate about Backend Development with Java
+💻 Focused on **Java Backend Development**
 
-🌱 Currently learning **Spring Boot, REST APIs & System Design**
+🌱 Exploring **DevOps, Cloud & Microservices**
 
-📱 Building Android Apps using **React Native**
+📱 Building mobile apps with **React Native**
 
-🧩 Solving Data Structures & Algorithms in Java
+🧩 Solving **Data Structures & Algorithms in Java**
 
-🚀 Aspiring Software Development Engineer
+🐳 Learning containerization and deployment with **Docker**
+
+⚙️ Interested in **Backend Engineering, System Design & Distributed Systems**
+
+🚀 Aspiring **Software Development Engineer**
+
+</td>
+
+<td width="45%">
+
+```java
+public class Sanskar {
+
+    String role = "Backend Developer";
+
+    String[] focus = {
+        "Java",
+        "Spring Boot",
+        "React Native",
+        "Docker",
+        "DevOps"
+    };
+
+    String philosophy =
+        "Learn. Build. Improve. Repeat.";
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="45"/>
 </p>
 
-### 📱 Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Language-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-Markup-E34F26?style=flat-square&logo=xml&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
+## 📱 Frontend & Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45"/>
 </p>
 
-### 🗄 Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+React Native • React • JavaScript • TypeScript • HTML • CSS • Android Development
 </p>
 
-### 🧰 Tools
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="45"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="45"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="45"/>
+</p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,firebase" />
+Spring Framework • Spring Boot • Spring MVC • Spring Security • REST APIs • JDBC • JPA • Hibernate • JWT • OAuth2 • Servlets • JSP
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/>
+</p>
+
+<p>
+MySQL • SQL • MongoDB • Firebase
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,ansible,terraform" height="45"/>
+</p>
+
+<p>
+Docker • Linux • Jenkins • CI/CD • Ansible • Terraform • Cloud Deployment
+</p>
+
+---
+
+## 🧰 Tools & IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,postman,maven,gradle" height="45"/>
+</p>
+
+<p>
+Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Postman • Maven • Gradle
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-- 🎵 Music Player (React Native)
-- 💱 Currency Converter
-- 🎲 Dice Roller
-- 🔐 Password Generator
-- 🛒 Spring Boot E-Commerce API
-- 💬 Real-Time Chat Application *(In Progress)*
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 Music Player
+
+Cross-platform music player built using **React Native** with a modern mobile interface and audio playback functionality.
+
+</td>
+
+<td width="50%">
+
+### 💱 Currency Converter
+
+A responsive currency conversion application built with **React Native** and TypeScript.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎲 Dice Roller
+
+An interactive React Native application simulating dice rolls with a simple and responsive UI.
+
+</td>
+
+<td width="50%">
+
+### 🔐 Password Generator
+
+Customizable password generator built using **React Native, Formik and Yup**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Spring Boot E-Commerce API
+
+RESTful backend built using **Spring Boot, Spring Data JPA, Hibernate and MySQL**.
+
+</td>
+
+<td width="50%">
+
+### 💬 Real-Time Chat Application
+
+Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
+
+🚧 In Progress
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kratoscodes24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratoscodes24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kratoscodes24&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kratoscodes24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratoscodes24&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,9 +230,7 @@ Java Backend Developer | React Native Developer | B.Tech IT Student
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kratoscodes24&theme=tokyo-night"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kratoscodes24&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -110,54 +238,189 @@ Java Backend Developer | React Native Developer | B.Tech IT Student
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kratoscodes24&theme=algolia&no-frame=true&row=1"/>
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kratoscodes24&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🧠 My Development Journey
 
-- Spring Boot
-- REST APIs
-- Hibernate & JPA
-- System Design
-- React Native
-- DSA in Java
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ☕ Foundation
+
+✅ Core Java
+✅ Maven
+✅ Gradle
+✅ JUnit
+✅ Git & GitHub
+🔄 Data Structures & Algorithms
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌱 Backend Engineering
+
+✅ JDBC
+✅ Servlets & JSP
+✅ REST APIs & Web Services
+✅ ORM Concepts
+✅ Hibernate
+✅ Spring Framework
+✅ Spring Boot REST APIs
+✅ Spring JDBC
+✅ Spring Data JPA
+✅ Spring Boot MVC
+✅ Spring Security
+✅ JWT
+✅ OAuth2
+✅ Log4j
+✅ Spring Boot + MongoDB
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ DevOps & Advanced Backend
+
+🔄 Docker
+📌 Cloud Deployment
+📌 Spring AI
+📌 Ollama + Spring AI
+📌 Microservices
+📌 Spring Boot + Kafka
+📌 Linux
+📌 Ansible
+📌 Jenkins
+📌 Terraform
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐳 DevOps
+
+* Docker
+* Linux
+* CI/CD
+* Jenkins
+* Ansible
+* Terraform
+
+</td>
+
+<td width="50%">
+
+### ☁️ Advanced Backend
+
+* Cloud Deployment
+* Microservices Architecture
+* Apache Kafka
+* Spring AI
+* Ollama Integration
+* System Design
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ 500+ DSA Problems
-- ✅ Build 10+ Full Stack Projects
-- ✅ Master Spring Boot
-- ✅ Open Source Contributions
-- ✅ SDE Internship
+<table>
+<tr>
+<td width="50%">
+
+🧩 Solve **500+ DSA Problems**
+
+🚀 Build **10+ Production-Ready Projects**
+
+☕ Strengthen **Advanced Spring Boot**
+
+🐳 Build and deploy **Containerized Applications**
+
+</td>
+
+<td width="50%">
+
+☁️ Deploy applications to the **Cloud**
+
+🔗 Build **Microservices-Based Projects**
+
+🤝 Contribute to **Open Source**
+
+💼 Secure an **SDE Internship**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💭 Developer Thoughts
+
+> **"I don't want to just learn technologies. I want to understand how things work, build things that solve real problems, and keep improving with every project."**
+
+> **"Code. Learn. Build. Break. Debug. Improve. Repeat."**
+
+> **"The goal is not to know every technology. The goal is to become good enough at learning that no technology feels impossible."**
+
+---
+
+# ⚡ Developer Mindset
+
+```text
+Learn the fundamentals.
+        ↓
+Build something real.
+        ↓
+Break things.
+        ↓
+Debug patiently.
+        ↓
+Understand what went wrong.
+        ↓
+Build it better.
+        ↓
+Repeat.
+```
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/sanskrr/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  
+
+<a href="mailto:Sanskarsinhachopan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Sanskarsinhachopan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
+<p align="center">
+  <b>💻 Building today. Learning every day. Preparing for what comes next. 🚀</b>
+</p>
 
-> **"Code. Learn. Improve. Repeat."**
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
