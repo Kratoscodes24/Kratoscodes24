@@ -18,7 +18,7 @@ Java Backend Developer • React Native Developer • B.Tech IT Student
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 🎓 B.Tech Information Technology Student
 
@@ -30,7 +30,7 @@ Java Backend Developer • React Native Developer • B.Tech IT Student
 
 🧩 Solving **Data Structures & Algorithms in Java**
 
-🐳 Learning containerization and deployment with **Docker**
+🐳 Working with containerization and deployment using **Docker**
 
 ⚙️ Interested in **Backend Engineering, System Design & Distributed Systems**
 
@@ -38,7 +38,7 @@ Java Backend Developer • React Native Developer • B.Tech IT Student
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
 ```java
 public class Sanskar {
@@ -68,15 +68,15 @@ public class Sanskar {
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/sanskrr/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/sanskrr/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"/>
+</a>
 
-  &nbsp;&nbsp;
+&nbsp;&nbsp;
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Sanskarsinhachopan@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" width="45" alt="Email"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Sanskarsinhachopan@gmail.com">
+  <img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png" height="45" width="45" alt="Gmail"/>
+</a>
 
 </p>
 
@@ -87,12 +87,17 @@ public class Sanskar {
 ## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="45"/>
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-Database%20Language-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-Markup-E34F26?style=flat-square&logo=xml&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white" height="45"/>
+
 </p>
 
 ---
@@ -100,13 +105,13 @@ public class Sanskar {
 ## 📱 Frontend & Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45"/>
-</p>
 
-<p>
-React Native • React • JavaScript • TypeScript • HTML • CSS • Android Development
+<img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45"/>
+
 </p>
 
 ---
@@ -114,17 +119,41 @@ React Native • React • JavaScript • TypeScript • HTML • CSS • Androi
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="45"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="45"/>
-</p>
 
-<p>
-Spring Framework • Spring Boot • Spring MVC • Spring Security • REST APIs • JDBC • JPA • Hibernate • JWT • OAuth2 • Servlets • JSP
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" height="45"/>
+
 </p>
 
 ---
@@ -132,11 +161,9 @@ Spring Framework • Spring Boot • Spring MVC • Spring Security • REST API
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/>
-</p>
 
-<p>
-MySQL • SQL • MongoDB • Firebase
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/>
+
 </p>
 
 ---
@@ -144,11 +171,9 @@ MySQL • SQL • MongoDB • Firebase
 ## ☁️ DevOps & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,ansible,terraform" height="45"/>
-</p>
 
-<p>
-Docker • Linux • Jenkins • CI/CD • Ansible • Terraform • Cloud Deployment
+<img src="https://skillicons.dev/icons?i=docker,linux,jenkins,ansible,terraform,kafka,githubactions" height="45"/>
+
 </p>
 
 ---
@@ -156,11 +181,9 @@ Docker • Linux • Jenkins • CI/CD • Ansible • Terraform • Cloud Deplo
 ## 🧰 Tools & IDEs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,postman,maven,gradle" height="45"/>
-</p>
 
-<p>
-Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Postman • Maven • Gradle
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,postman,maven,gradle" height="45"/>
+
 </p>
 
 ---
@@ -168,8 +191,10 @@ Git • GitHub • VS Code • IntelliJ IDEA • Android Studio • Postman • 
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎵 Music Player
 
@@ -177,17 +202,19 @@ Cross-platform music player built using **React Native** with audio playback fun
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💱 Currency Converter
 
 A responsive currency conversion application built with **React Native** and **TypeScript**.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🎲 Dice Roller
 
@@ -195,17 +222,19 @@ An interactive **React Native** application simulating dice rolls.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Password Generator
 
 Customizable password generator built using **React Native, Formik and Yup**.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🛒 Spring Boot E-Commerce API
 
@@ -213,7 +242,7 @@ RESTful backend built using **Spring Boot, Spring Data JPA, Hibernate and MySQL*
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 Real-Time Chat Application
 
@@ -222,7 +251,9 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 🚧 In Progress
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -231,9 +262,15 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 
 <p align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kratoscodes24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Kratoscodes24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratoscodes24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  width="41%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratoscodes24&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
@@ -243,7 +280,10 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 
 <p align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kratoscodes24&theme=tokyo-night&hide_border=true&area=true"/>
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Kratoscodes24&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </p>
 
@@ -253,7 +293,10 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 
 <p align="center">
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kratoscodes24&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+<img
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=Kratoscodes24&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7"
+/>
 
 </p>
 
@@ -262,8 +305,10 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 # 🎯 2026 Goals
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 🧩 Solve **500+ DSA Problems**
 
@@ -275,7 +320,7 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ☁️ Deploy applications to the **Cloud**
 
@@ -286,7 +331,9 @@ Real-time messaging application using **WebSocket, STOMP and Spring Boot**.
 💼 Secure an **SDE Internship**
 
 </td>
+
 </tr>
+
 </table>
 
 ---
